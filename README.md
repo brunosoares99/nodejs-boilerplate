@@ -1,4 +1,4 @@
-# NodeJs + Express + Mongoose + Jest + Eslint - Boilerplate
+# NodeJs + Typescript + Express + Mongoose + Jest + Eslint - Boilerplate
 
 This is a NodeJs initial template, previously configured to facilitate the creation of new applications.
 
